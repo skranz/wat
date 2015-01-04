@@ -7,4 +7,4 @@ Author: Sebastian Kranz
 Maintainer: Sebastian Kranz <sebastian.kranz@uni-ulm.de>
 Description: Tools for web-assissted teaching via shiny server.
 License: GPL >= 2.0
-Depends: shiny, shinyEvents
+Depends: shiny, shinyEvents, hwriter
